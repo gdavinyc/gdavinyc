@@ -3,7 +3,7 @@ gdavinyc/gdavinyc is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-# **Welcome to my humble abode! :seedling:**
+# **Welcome to my digital abode! :seedling:**
 
 
 <img src="https://i.pinimg.com/originals/31/c3/e3/31c3e3f032a177d0b0c983b8262de8f9.gif" width=100% height=100%>
