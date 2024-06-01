@@ -5,6 +5,9 @@ You can click the Preview link to take a look at your changes.
 
 # **Welcome to my humble abode! :seedling:**
 
+
+<img src="https://i.pinimg.com/originals/31/c3/e3/31c3e3f032a177d0b0c983b8262de8f9.gif" width=100% height=100%>
+
     class ComputerScienceStudent:
 
       def __init__(self):
@@ -25,13 +28,13 @@ You can click the Preview link to take a look at your changes.
     me = ComputerScienceStudent()
     me.say_hi()
 
-## **What am I up to right now?**
+## <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width=5% height=5%> **What am I up to right now?**
 
 I am currently attending PluralSight courses through the Girl Who Code Work-Prep program.
 
 ![PluralSight Badge](https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white)
 
-## **Blogs**
+## <img src="https://user-images.githubusercontent.com/74038190/216654136-2b97900b-59ee-45c5-87bb-0c359e31dd2f.gif" width=5% height=5%> **Blogs**
 
 * Web Portfolio: (Under Construction :construction:)
 * Tumblr Coding Blog: (Under Construction :construction:)
