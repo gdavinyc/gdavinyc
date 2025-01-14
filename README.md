@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 
 I am currently designing my web portfolio using Figma.
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216654136-2b97900b-59ee-45c5-87bb-0c359e31dd2f.gif" width=5% height=5%> **Blogs**
 
