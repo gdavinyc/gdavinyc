@@ -30,9 +30,8 @@ You can click the Preview link to take a look at your changes.
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width=5% height=5%> **What am I up to right now?**
 
-I am currently attending PluralSight courses through the Girl Who Code Work-Prep program.
-
-![PluralSight Badge](https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white)
+I am currently working on the front-end portion of my portfolio, using Figma along the way. 
+![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216654136-2b97900b-59ee-45c5-87bb-0c359e31dd2f.gif" width=5% height=5%> **Blogs**
 
